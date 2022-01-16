@@ -1,2 +1,4 @@
 # 2021_22-Ratza-Intro-CS-Sem-2
-Intro to Python assignments and notes
+
+Welcome to the second semester of Intro to Computer Science. This repository will be a visible
+portfolio of your work and effort to learn Python.
